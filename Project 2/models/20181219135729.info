@@ -1,0 +1,1 @@
+{"state_size": 33, "action_size": 4, "seed": null, "actor_units": [256, 128], "critic_units": [[256], [256, 128]], "lr_actor": 0.0001, "lr_critic": 0.0001, "gamma": 0.99, "tau": 0.001, "steps": 0, "update_every": 10, "batch_size": 32, "sampling": "random"}
