@@ -1,0 +1,1 @@
+{"num_agents": 2, "state_size": 24, "action_size": 2, "actor_units": [128], "critic_units": [[64], [64, 32, 16]], "lr_actor": 0.0001, "lr_critic": 0.0001, "gamma": 0.99, "tau": 0.001, "steps": 0, "update_every": 4, "batch_size": 32}
